@@ -73,5 +73,8 @@ document.write(today);
 # 이미지
 - ![이미지텍스트](./이미지 경로)
 
-
+![snowma](./images/snowman.png)
+![muffin](https://github.com/ejlee/connect-ssh/assets/3917188/2dc1ed64-0cb9-47cc-b919-11d611591ff5)
+![europe](https://cdn.pixabay.com/photo/2018/08/31/03/26/europe-3643773_960_720.jpg)
+![angkor](https://cdn.pixabay.com/photo/2023/06/29/09/52/angkor-thom-8096092_1280.jpg)
 
